@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-The Lead
-RadioLab
-This American life
-Recipe club
-=======
->>>>>>> silence
+simon podcast
+Allen podcast
